@@ -1,4 +1,4 @@
-## Hi there 👋 I'am Ayşegül Orhon. I am a freshman CS major at Bilkent University.
+## Hi there 👋 I'am Ayşegül Orhon. I am a sophomore CS major at Bilkent University.
 
 <!--
 **Aysegul-Orhon/Aysegul-Orhon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
